@@ -186,7 +186,7 @@ class Usuario {
 }
 
 // Classe principal
-public class SmartTV {
+public class _01_SmartTV {
     public static void main(String[] args) {
         ControladorTelevisor miTv = new Televisor();
         Usuario usuario = new Usuario(miTv);
